@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rg286e7WprRGpIY2ircefot/raOgxSBX/LzmbfWb/YL5xXOSY+Qj5cDrI5dpMNuzS8ZvMYO6pEcigMEM8K4kUw==",
+  "success": true,
+  "projectFilePath": "/Users/thilina/Projects/testmqttapi/testmqttapi/testmqttapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/thilina/.nuget/packages/mqttnet/3.1.2/mqttnet.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

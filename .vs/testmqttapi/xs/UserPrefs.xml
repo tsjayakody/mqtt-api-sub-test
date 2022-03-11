@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BE33F609-E8CD-4CF1-8318-227F44C11D47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testmqttapi/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="testmqttapi/Controllers/MqttController.cs" Line="7" Column="30" />
+      <File FileName="testmqttapi/Controllers/WeatherForecastController.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testmqttapi" expanded="True">
+            <Node name="testmqttapi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.testmqttapi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
